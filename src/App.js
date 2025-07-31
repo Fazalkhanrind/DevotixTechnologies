@@ -4,7 +4,7 @@ import MainLayout from './layouts/MainLayout';
 import Home from './features/Home';
 import AboutUs from './components/AboutUs';
 import Services from './features/Services';
-import Portfolio from './features/Portfolio';
+// import Portfolio from './features/Portfolio';
 import WhyStartUS from './components/WhyStartUs';
 import Team from './features/Team';
 import WhatClientsSays from './components/WhatClientsSays';
@@ -20,7 +20,7 @@ function App() {
         <Home />
         <AboutUs />
         <Services />
-        <Portfolio />
+        {/* <Portfolio /> */}
         <WhyStartUS />
         <Team />
         <WhatClientsSays />

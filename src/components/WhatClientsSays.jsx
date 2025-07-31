@@ -9,7 +9,7 @@ const WhatClientsSays = () => {
 
                     <div className="section-head offset-md-2 col-md-8 offset-lg-3 col-lg-6">
                         <h4>What's <span>Clients</span> Says?</h4>
-                        <p>We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.</p>
+                        <p>Our clients trust Devotix Technologies to deliver clean code, scalable architecture, and stunning user experiences. We’re proud to build long-term partnerships through quality work, clear communication, and on-time delivery.</p>
                     </div>
 
                     <div className="owl-carousel owl-theme text-center col-lg-10 offset-lg-1">

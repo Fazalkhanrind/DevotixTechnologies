@@ -19,21 +19,21 @@ const WhyStartUS = () => {
                                 <span className="icon icon-basic-display"></span>
                                 <div className="cont">
                                     <h5>Fully Responsive</h5>
-                                    <p>Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit aptent taciti sociosqu.</p>
+                                    <p>All our web and mobile applications are built to perform flawlessly on every device ensuring a consistent user experience from desktop to mobile.</p>
                                 </div>
                             </div>
                             <div className="item mb-40">
                                 <span className="icon icon-basic-bolt"></span>
                                 <div className="cont">
                                     <h5>Clean & Modern Design</h5>
-                                    <p>Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit aptent taciti sociosqu.</p>
+                                    <p>We prioritize intuitive, modern UI with clean layouts that not only look great but also enhance usability and engagement.</p>
                                 </div>
                             </div>
                             <div className="item">
                                 <span className="icon icon-basic-headset"></span>
                                 <div className="cont">
                                     <h5>Friendly Support</h5>
-                                    <p>Nulla metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat velit aptent taciti sociosqu.</p>
+                                    <p>From project kickoff to post-launch, our team is here to support you with clear communication, fast responses, and a problem-solving mindset.</p>
                                 </div>
                             </div>
                         </div>

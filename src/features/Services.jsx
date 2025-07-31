@@ -9,7 +9,7 @@ const Services = () => {
 
                     <div className="section-head offset-md-2 col-md-8 offset-lg-3 col-lg-6">
                         <h4><span>Our</span> Process</h4>
-                        <p>We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.</p>
+                        <p>We follow a streamlined development process from planning and design to development and deployment delivering scalable and user-friendly web & mobile solutions with precision.</p>
                     </div>
                     <div className="full-width clearfix"></div>
                     
@@ -20,7 +20,7 @@ const Services = () => {
                             <div className="cont">
                                 <h3>01</h3>
                                 <h6>Ideas</h6>
-                                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat</p>
+                                <p>We start by understanding your business goals and brainstorming innovative, tech-driven solutions tailored to your vision</p>
                             </div>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ const Services = () => {
                             <div className="cont">
                                 <h3>02</h3>
                                 <h6>Planning</h6>
-                                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat</p>
+                                <p>Our team maps out detailed wireframes, defines system architecture, and creates a clear roadmap to guide the development process</p>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ const Services = () => {
                             <div className="cont">
                                 <h3>03</h3>
                                 <h6>Development</h6>
-                                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat</p>
+                                <p>We build secure, scalable, and high-performing web and mobile applications using modern stacks like MERN, .NET, and React Native</p>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@ const Services = () => {
                             <div className="cont">
                                 <h3>04</h3>
                                 <h6>Testing</h6>
-                                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod nibh Quisque volutpat</p>
+                                <p>Every feature undergoes rigorous manual and automated testing to ensure a bug-free, smooth, and optimized user experience</p>
                             </div>
                         </div>
                     </div>

@@ -9,15 +9,15 @@ const AboutUs = () => {
                     <div className="row">
                         <div className="offset-lg-2 col-lg-8 offset-md-1 col-md-10 text-center mb-80">
                             <h4 className="extra-title">About Our <span>Creative</span> Agency</h4>
-                            <p>Lorem Ipsum is simply dummy text of the printing and type setting industry when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries.</p>
+                            <p>We are a modern software agency specializing in full-stack web and mobile development. Our team thrives on clean code, scalable systems, and creating digital solutions that drive real-world results.</p>
                         </div>
 
                         <div className="feat-item mb-md50 col-lg-4">
                             <div className="text-center">
                                 <span className="icon icon-basic-anchor"></span>
                                 <h5>Web Design</h5>
-                                <h6>Modern & Clean Design</h6>
-                                <p>Lorem Ipsum is simply dummy text of the printing and type setting industry</p>
+                                <h6>Responsive & User-Focused Interfaces</h6>
+                                <p>We help businesses define their digital presence through compelling design systems, intuitive UI, and branding that resonates</p>
                             </div>
                         </div>
 
@@ -26,16 +26,16 @@ const AboutUs = () => {
                                 <span className="icon icon-basic-pencil-ruler"></span>
                                 <h5>Development</h5>
                                 <h6>Web & Mobile Development</h6>
-                                <p>Lorem Ipsum is simply dummy text of the printing and type setting industry</p>
+                                <p>From robust websites to cross-platform mobile apps, we build high-performance digital products using MERN, .NET, and React Native</p>
                             </div>
                         </div>
 
                         <div className="feat-item col-lg-4">
                             <div className="text-center">
                                 <span className="icon icon-basic-cards-diamonds"></span>
-                                <h5>Branding</h5>
-                                <h6>Logo & Motion Design</h6>
-                                <p>Lorem Ipsum is simply dummy text of the printing and type setting industry</p>
+                                <h5>Testing</h5>
+                                <h6>Quality Assurance & Bug-Free Delivery</h6>
+                                <p>We ensure every application is thoroughly tested for functionality, performance, and user experience, bug-free digital products</p>
                             </div>
                         </div>
 
@@ -67,26 +67,26 @@ const AboutUs = () => {
                                     <div className="left col-lg-6">
                                         <div className="about box-white">
                                             <h5 className="title">About Us</h5>
-                                            <h6 className="sub-title">We Are A Creative Agency</h6>
-                                            <p>We’re full service which means we’ve got you covered on design and content right through to digital.</p>
+                                            <h6 className="sub-title">We Are a Full-Stack Software Agency</h6>
+                                            <p>We handle everything from clean UI design and powerful backend development to seamless mobile experiences all under one roof.</p>
 
                                            
 
                                             <div className="skills mt-40">
                                                 <div className="skill-item mb-30">
-                                                    <h6>Web Design</h6>
+                                                    <h6>UI design</h6>
                                                     <div className="skill-progress">
                                                         <div className="progres" data-value="90%"></div>
                                                     </div>
                                                 </div>
                                                 <div className="skill-item mb-30">
-                                                    <h6>Branding</h6>
+                                                    <h6>Development</h6>
                                                     <div className="skill-progress">
-                                                        <div className="progres" data-value="75%"></div>
+                                                        <div className="progres" data-value="95%"></div>
                                                     </div>
                                                 </div>
                                                 <div className="skill-item">
-                                                    <h6>Development</h6>
+                                                    <h6>Testing</h6>
                                                     <div className="skill-progress">
                                                         <div className="progres" data-value="80%"></div>
                                                     </div>
@@ -106,9 +106,10 @@ const AboutUs = () => {
                                     <div className="left col-lg-6">
                                         <div className="mission box-white">
                                             <h5 className="title">Our Mission</h5>
-                                            <h6 className="sub-title">We Are A Creative Agency</h6>
-                                            <p className="mb-10"><b>We’re full service which means</b> we’ve got you covered on design and content right through to digital. You’ll form a lasting relationship with us, <b>collaboration is central to</b> everything we do. <b>We’ll push you out of</b> your comfort zone from time, but this is where you’ll shine. Bottom line is we want you to succeed at Faculty.</p>
-                                            <p>You’ll form a lasting relationship with us, collaboration is central to everything we do. We’ll push you out of your comfort zone from time-to-time, but this is where you’ll shine. Bottom line is we want you to succeed at Faculty.</p>
+                                            <h6 className="sub-title">We Are a Full-Stack Development Partner</h6>
+                                            <p className="mb-10"><b>We’re full service which means</b> our mission is to build reliable, scalable, and innovative digital products that drive real business growth. <b>We’re more than just developers</b> we’re your technology partner.<b>We’ll push you out of</b> your comfort zone from time, but this is where you’ll shine. Bottom line is we want you to succeed at Faculty.</p>
+                                            <p> We believe in long-term collaboration, clear communication, and pushing creative boundaries. We'll challenge ideas when needed, bring clarity to complexity, and work with you side-by-side to deliver solutions that truly make an impact.</p>
+                                           <p><b>Your success is our success and that’s what drives us every day.</b></p>
                                         </div>
                                     </div>
                                     <div className="col-lg-6 image">
@@ -129,7 +130,7 @@ const AboutUs = () => {
                                         <div className="why-us box-white">
                                             <h5 className="title">Why Choose Us?</h5>
                                             <h6 className="sub-title">We Are A Creative Agency</h6>
-                                            <p>We’re full service which means we’ve got you covered on design and content right through to digital.You’ll form a lasting relationship with us, collaboration is central to everything we do.</p>
+                                            <p>We provide end-to-end solutions from frontend design and backend APIs to mobile apps and cloud integration. We build strong partnerships through transparent communication, clean code, and a deep commitment to delivering real results.</p>
                                             <ul className="feat mt-30 row">
                                                 <li className="col-sm-4">
                                                     <span className="icon icon-basic-display"></span>

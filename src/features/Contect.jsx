@@ -9,7 +9,7 @@ const Contect = () => {
 
                     <div className="section-head offset-md-2 col-md-8 offset-lg-3 col-lg-6">
                         <h4>Get <span>In</span> Touch</h4>
-                        <p>We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.</p>
+                        <p>Let’s build something amazing together. Whether you need a web app, mobile solution, or full-stack development Devotix Technologies is ready to bring your ideas to life.</p>
                     </div>
                    
                     <div className="col-lg-5">

@@ -7,7 +7,7 @@ const Header = () => {
 
            
             <a className="logo" href="#home">
-				<img src="/Black-logo.png" alt="Devotix Technologies Logo"  />          
+				<img src="/White-logo.png" alt="Devotix Technologies Logo"  />          
             </a>
 
 			  <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

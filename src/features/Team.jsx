@@ -9,7 +9,7 @@ const Team = () => {
 
                     <div className="section-head offset-md-2 col-md-8 offset-lg-3 col-lg-6">
                         <h4><span>Talent</span> Team</h4>
-                        <p>We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.</p>
+                        <p>Our talented team of full-stack developers, UI/UX designers, and QA engineers collaborate to build fast, scalable, and user-friendly digital solutions tailored to meet your business goals.</p>
                     </div>
                     
                     <div className="owl-carousel owl-theme">
