@@ -8,8 +8,8 @@ const Prices = () => {
                 <div className="row">
                     
                     <div className="section-head offset-md-2 col-md-8 offset-lg-3 col-lg-6">
-                        <h4>Pricing <span>Table</span></h4>
-                        <p>We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.</p>
+                        <h4>Our <span>Pricing</span> Plans</h4>
+                        <p>Choose the perfect package for your business needs. We offer comprehensive software development solutions from basic websites to enterprise applications with transparent pricing and dedicated support.</p>
                     </div>
 
                     <div className="pricing-tables text-center full-width">
@@ -19,27 +19,32 @@ const Prices = () => {
                             <div className="col-lg-3">
                                 <div className="item mb-md50">
                                     <div className="type">
-                                        <h4>Free</h4>
+                                        <h4>🔹 Starter</h4>
+                                        <small>Personal websites & small businesses</small>
                                     </div>
 
                                     <div className="value">
-                                        <h3><span>$</span>00</h3>
-                                        <span className="per">/ Month</span>
+                                        <h3><span>$</span>299</h3>
+                                        <span className="per">/ Project</span>
                                     </div>
 
                                     <div className="features">
                                         <ul>
-                                            <li>10 GB Disk Space</li>
-                                            <li>15 Domain Names</li>
-                                            <li>4 Email Address</li>
-                                            <li>Enhanced Security</li>
-                                            <li>Unlimited Support</li>
+                                            <li>Custom-designed website</li>
+                                            <li>Up to 5 content pages</li>
+                                            <li>Fully responsive design</li>
+                                            <li>Basic on-page SEO setup</li>
+                                            <li>Integrated contact form</li>
+                                            <li>30 days post-launch support</li>
                                         </ul>
+                                        <p style={{fontSize: '12px', color: '#666', marginTop: '10px'}}>
+                                            Great for getting your online presence up and running with a professional touch.
+                                        </p>
                                     </div>
 
                                     <div className="order">
                                         <a href="#0" className="butn butn-bg">
-                                            <span>Purchase Now</span>
+                                            <span>Get Started</span>
                                         </a>
                                     </div>
                                 </div>
@@ -48,27 +53,32 @@ const Prices = () => {
                             <div className="col-lg-3">
                                 <div className="item mb-md50">
                                     <div className="type">
-                                        <h4>Basic</h4>
+                                        <h4>🔷 Professional</h4>
+                                        <small>Startups & SMEs with digital services</small>
                                     </div>
 
                                     <div className="value">
-                                        <h3><span>$</span>10</h3>
-                                        <span className="per">/ Month</span>
+                                        <h3><span>$</span>799</h3>
+                                        <span className="per">/ Project</span>
                                     </div>
 
                                     <div className="features">
                                         <ul>
-                                            <li>10 GB Disk Space</li>
-                                            <li>15 Domain Names</li>
-                                            <li>4 Email Address</li>
-                                            <li>Enhanced Security</li>
-                                            <li>Unlimited Support</li>
+                                            <li>Full-stack web application</li>
+                                            <li>Database design & integration</li>
+                                            <li>Intuitive Admin Panel (CRUD)</li>
+                                            <li>RESTful API development</li>
+                                            <li>Advanced SEO configuration</li>
+                                            <li>90 days maintenance support</li>
                                         </ul>
+                                        <p style={{fontSize: '12px', color: '#666', marginTop: '10px'}}>
+                                             Perfect for data-driven applications made easy.
+                                        </p>
                                     </div>
 
                                     <div className="order">
                                         <a href="#0" className="butn butn-bg">
-                                            <span>Purchase Now</span>
+                                            <span>Get Started</span>
                                         </a>
                                     </div>
                                 </div>
@@ -78,27 +88,32 @@ const Prices = () => {
                                 <div className="item active mb-md50">
 
                                     <div className="type">
-                                        <h4>Standard</h4>
+                                        <h4>🟡 Business</h4>
+                                        <small>Scale online operations (web + mobile)</small>
                                     </div>
 
                                     <div className="value">
-                                        <h3><span>$</span>30</h3>
-                                        <span className="per">/ Month</span>
+                                        <h3><span>$</span>1499</h3>
+                                        <span className="per">/ Project</span>
                                     </div>
 
                                     <div className="features">
                                         <ul>
-                                            <li>100 GB Disk Space</li>
-                                            <li>30 Domain Names</li>
-                                            <li>5 Email Address</li>
-                                            <li>Enhanced Security</li>
-                                            <li>Unlimited Support</li>
+                                            <li>End-to-end e-commerce platform</li>
+                                            <li>Payment gateway integration</li>
+                                            <li>Cross-platform mobile app</li>
+                                            <li>Analytics & reporting dashboard</li>
+                                            <li>6 months comprehensive support</li>
+                                            <li>Priority response for queries</li>
                                         </ul>
+                                        <p style={{fontSize: '12px', color: 'white', marginTop: '10px'}}>
+                                             Ideal for unified web + mobile experiences.
+                                        </p>
                                     </div>
 
                                     <div className="order">
                                         <a href="#0" className="butn butn-light">
-                                            <span>Purchase Now</span>
+                                            <span>Most Popular</span>
                                         </a>
                                     </div>
                                 </div>
@@ -107,27 +122,32 @@ const Prices = () => {
                             <div className="col-lg-3">
                                 <div className="item">
                                     <div className="type">
-                                        <h4>Premium</h4>
+                                        <h4>🟣 Enterprise</h4>
+                                        <small>Large-scale bespoke solutions</small>
                                     </div>
 
                                     <div className="value">
-                                        <h3><span>$</span>80</h3>
-                                        <span className="per">/ Month</span>
+                                        <h3>Custom</h3>
+                                        <span className="per">Quote</span>
                                     </div>
 
                                     <div className="features">
                                         <ul>
-                                            <li>500 GB Disk Space</li>
-                                            <li>100 Domain Names</li>
-                                            <li>10 Email Address</li>
-                                            <li>Enhanced Security</li>
-                                            <li>Unlimited Support</li>
+                                            <li>Tailor-made software solutions</li>
+                                            <li>Cloud infrastructure setup</li>
+                                            <li>DevOps practices (CI/CD)</li>
+                                            <li>24/7 monitoring & support</li>
+                                            <li>Dedicated account manager</li>
+                                            <li>Enterprise-grade security</li>
                                         </ul>
+                                        <p style={{fontSize: '12px', color: '#666', marginTop: '10px'}}>
+                                             Built for scale. Mission-critical systems.
+                                        </p>
                                     </div>
 
                                     <div className="order">
                                         <a href="#0" className="butn butn-bg">
-                                            <span>Purchase Now</span>
+                                            <span>Contact Us</span>
                                         </a>
                                     </div>
                                 </div>

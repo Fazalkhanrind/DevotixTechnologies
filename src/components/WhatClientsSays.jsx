@@ -17,14 +17,14 @@ const WhatClientsSays = () => {
                             <span className="quote">
                                 <img src="/img/quot.png" alt="Quote" />
                             </span>
-                            <p>Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book.</p>
+                            <p>"Devotix Technologies transformed our business with a modern web application. Their technical expertise and commitment to deadlines exceeded our expectations. The team's professionalism made the entire process seamless and efficient."</p>
                             <div className="info">
                                 <div className="author-img">
                                     <img src="/img/clients/1.jpg" alt="Client 1" />
                                 </div>
                                 <div className="cont">
-                                    <h6>John Doe</h6>
-                                    <span>CEO, Tech Corp</span>
+                                    <h6>Ahmed Malik</h6>
+                                    <span>CEO, RetailTech Solutions</span>
                                 </div>
                             </div>
                         </div>
@@ -32,14 +32,14 @@ const WhatClientsSays = () => {
                             <span className="quote">
                                 <img src="/img/quot.png" alt="Quote" />
                             </span>
-                            <p>Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book.</p>
+                            <p>"Working with Devotix Technologies was a game-changer for our startup. They developed our mobile app with incredible efficiency. The user experience they created helped us achieve our business goals successfully."</p>
                             <div className="info">
                                 <div className="author-img">
                                     <img src="/img/clients/2.jpg" alt="Client 2" />
                                 </div>
                                 <div className="cont">
-                                    <h6>Sarah Wilson</h6>
-                                    <span>Marketing Director</span>
+                                    <h6>Sarah Khan</h6>
+                                    <span>Founder, FoodieConnect</span>
                                 </div>
                             </div>
                         </div>
@@ -47,14 +47,14 @@ const WhatClientsSays = () => {
                             <span className="quote">
                                 <img src="/img/quot.png" alt="Quote" />
                             </span>
-                            <p>Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book.</p>
+                            <p>"The e-commerce platform Devotix built increased our sales significantly. Their expertise in frontend design and backend architecture is remarkable. They understand business needs and deliver powerful solutions."</p>
                             <div className="info">
                                 <div className="author-img">
                                     <img src="/img/clients/3.jpg" alt="Client 3" />
                                 </div>
                                 <div className="cont">
-                                    <h6>Mike Johnson</h6>
-                                    <span>Business Owner</span>
+                                    <h6>Muhammad Ali</h6>
+                                    <span>Director, Fashion Hub</span>
                                 </div>
                             </div>
                         </div>
@@ -62,14 +62,14 @@ const WhatClientsSays = () => {
                             <span className="quote">
                                 <img src="/img/quot.png" alt="Quote" />
                             </span>
-                            <p>Lorem Ipsum is simply dummy text a galley of type and scrambled it to make a type specimen book.</p>
+                            <p>"Devotix Technologies delivered our management system on time and within budget. The software streamlined our operations significantly and improved efficiency. Their post-launch support has been exceptional throughout."</p>
                             <div className="info">
                                 <div className="author-img">
                                     <img src="/img/clients/4.jpg" alt="Client 4" />
                                 </div>
                                 <div className="cont">
-                                    <h6>Emma Davis</h6>
-                                    <span>Startup Founder</span>
+                                    <h6>Dr. Fatima Sheikh</h6>
+                                    <span>Administrator, City Medical Center</span>
                                 </div>
                             </div>
                         </div>

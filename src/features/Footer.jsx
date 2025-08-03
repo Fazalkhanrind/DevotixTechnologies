@@ -11,10 +11,9 @@ const Footer = () => {
 
                 <div className="social">
                     <a href="#0"><i className="fab fa-facebook-f"></i></a>
-                    <a href="#0"><i className="fab fa-twitter"></i></a>
-                    <a href="#0"><i className="fab fa-linkedin-in"></i></a>
-                    <a href="#0"><i className="fab fa-behance"></i></a>
-                    <a href="#0"><i className="fab fa-pinterest-p"></i></a>
+                    <a href="https://www.instagram.com/devotix_technologies?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i className="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/company/devotixtechnologies/posts/?feedView=all"><i className="fab fa-linkedin-in"></i></a>
+                    
                 </div>
 
             </div>

@@ -20,7 +20,7 @@ const Contect = () => {
                                 <span className="icon icon-basic-tablet"></span>
                                 <div className="cont">
                                     <h6>Phone : </h6>
-                                    <p>+1 (555) 123-4567</p>
+                                    <p>+923080933788</p>
                                 </div>
                             </div>
                             <div className="item">
@@ -34,7 +34,7 @@ const Contect = () => {
                                 <span className="icon icon-basic-geolocalize-05"></span>
                                 <div className="cont">
                                     <h6>Address : </h6>
-                                    <p>123 Tech Street, Digital City, CA 90210</p>
+                                    <p>Rawalpindi, Pakistan</p>
                                 </div>
                             </div>
                         </div>
